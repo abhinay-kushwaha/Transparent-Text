@@ -1,0 +1,10 @@
+#aa{
+    text-align: center;
+    font-weight: bolder;
+    font-size: 250px;
+    background-color: aqua;
+    background-image: url(https://www.icegif.com/wp-content/uploads/icegif-4221.gif);
+    background-position: center;
+    color: transparent;
+    background-clip: text;
+}
